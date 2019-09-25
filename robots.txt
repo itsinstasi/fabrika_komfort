@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://fabrika-komfort.itsinsta.site/sitemap.xml
+Sitemap: http://fabrika-komfort.itsinsta.site/sitemap.xml
